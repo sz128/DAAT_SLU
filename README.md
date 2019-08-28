@@ -10,4 +10,4 @@ The [`data` folder](./data) contains processed datas from [DSTC 2 & 3](http://ca
 The [`templates` folder](./templates) contains templates defined by the authors in the paper above.
 
 ### Dialogue Acts
-The [`acts` folder](./acts) contains dialogues acts generated from the ontology which are then utilized in the experiments.
+The [`acts` folder](./acts) contains dialogues acts generated for DSTC 3 from the ontology which are then utilized in the experiments.
