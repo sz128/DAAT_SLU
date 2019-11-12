@@ -1,5 +1,5 @@
 # DAAT_SLU
-Data Augmentation with Atomic Templates for Spoken Language Understanding
+Data Augmentation with Atomic Templates for Spoken Language Understanding (https://www.aclweb.org/anthology/D19-1375/)
 
 ## Data
 
